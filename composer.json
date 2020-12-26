@@ -1,5 +1,5 @@
 {
-    "name": "davidbadura/faker-markdown-generator",
+    "name": "seka19/faker-markdown-generator",
     "description": "Faker Markdown Generator",
     "keywords": [
         "markdown",
@@ -15,7 +15,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "fakerphp/faker": "^1.6",
+        "seka19/faker": "^1.14",
         "davidbadura/markdown-builder": "^1.0"
     },
     "autoload": {
